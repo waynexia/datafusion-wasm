@@ -1,5 +1,8 @@
 # DataFusion WASM
 
+> [!NOTE]  
+> The follow up development of this project is moved to [DataFusion WASM Bindings](https://github.com/datafusion-contrib/datafusion-wasm-bindings). Please check it out for the latest updates.
+
 Apache Datafusion that works on `wasm32-unknown-unknown`.
 
 # Install
